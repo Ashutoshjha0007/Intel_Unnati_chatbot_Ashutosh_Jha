@@ -55,7 +55,7 @@ uvicorn server:app --host 0.0.0.0
 
 step 9 : Run client 
 ```
-cd openvino-chatbot-rag-pdf
+cd Intel_Unnati_chatbot_Ashutosh_Jha
 venv\Scripts\activate
 streamlit run client.py
 ```
