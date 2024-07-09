@@ -66,6 +66,7 @@ Now , you can look at the pdf i have uploaded named ***"input"*** and ask questi
 Here are some demo questions from the PDF
 
 ***1. who sat three tables away ?***
+
 ***2. how did he spend the morning ?***
 
 
