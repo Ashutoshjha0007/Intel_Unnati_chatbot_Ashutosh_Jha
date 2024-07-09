@@ -7,6 +7,8 @@ PROBLEM STATEMENT : Running GenAI on Intel AI Laptops and Simple LLM Inference o
 In this problem statement we must perform simple LLM inference on a CPU and understand the process of fine-tuning LLMs for custom applications. We also must become familiar with the basics of Generative AI and its applications. In the end we must produce a Custom Chatbot with Fine-tuned Pre-trained Large Language Model (LLM) using Intel AI Tools.
 
 # How To Run
+>[!CAUTION]
+>DOWNLOADING THESE DEPENDENCIES MAY TAKE LONG , YOU ONLY NEED TO DOWNLOAD THEM ONCE 
 
 ***first of all open Windows powershell***
 
