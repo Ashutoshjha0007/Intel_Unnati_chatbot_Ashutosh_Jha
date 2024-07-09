@@ -60,5 +60,12 @@ streamlit run client.py
 ```
 
 step 10 : ask questions
+
 Now , you can look at the pdf i have uploaded named ***"input"*** and ask questions from that pdf , at ***FIRST*** the chatbot will give you the ***CONTEXT*** and then the ***ANSWER***
+
+Here are some demo questions from the PDF
+
+***1. who sat three tables away ?***
+***2. how did he spend the morning ?***
+
 
