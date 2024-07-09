@@ -37,7 +37,7 @@ python llm_downloader.py
 ```
 step 7 : Create a vector database
 
-***NOTE : for this step i have already downloaded a pdf and named it "input" you can replace the pdf file name to run the chatbot with other files.***
+***NOTE : for this step i have already downloaded a pdf and named it "input" . If you want to check with a different pdf, download any pdf and save it in the same folder, then replace the pdf file name in the code with the new one to run the chatbot with other file.***
 ```
 python vectorstore_generator.py -i input.pdf
 ```
@@ -53,5 +53,10 @@ cd openvino-chatbot-rag-pdf
 venv\Scripts\activate
 streamlit run client.py
 ```
+
+step 10 : ask questions
+Now , you can look at the pdf i have uploaded named ***"input"*** and ask questions from that pdf , at ***FIRST*** the chatbot will give you the ***CONTEXT*** and then the ***ANSWER***
+
+in case you want to test with another pdf , download it 
 
 
