@@ -44,6 +44,7 @@ step 7 : Create a vector database
 >***For this step i have already downloaded a pdf and named it "input" . If you want to check with a different pdf, download any pdf and save it in the same folder, then replace the pdf file name in the code with the new one to run the chatbot with other file.***
 
 ```
+pip install -U langchain-community
 python vectorstore_generator.py -i input.pdf
 ```
 step 8 : Run the server
