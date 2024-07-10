@@ -23,7 +23,7 @@ cd Intel_Unnati_chatbot_Ashutosh_Jha
 step 3 : Make a virtual environment 
 
 >[!CAUTION]
->If you have already made a virtual environment with the name venv before change the name so that the version of dependencies dont clash , example - ***python -m venv venvnew*** 
+>If you have already made a virtual environment with the name ***venv*** before, change the name, so that the version of dependencies dont clash , example - ***python -m venv venvnew*** 
 
 ```
 python -m venv venv
