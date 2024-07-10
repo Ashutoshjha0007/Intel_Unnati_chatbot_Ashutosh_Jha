@@ -8,7 +8,7 @@ In this problem statement we must perform simple LLM inference on a CPU and unde
 
 # Running Demo of chatbot
 
-[Demo video Link]([https://pages.github.com/](https://drive.google.com/file/d/15GW5Ufbc2SNGUnf90CT-Tq6Ss-vt_3Zm/view?usp=sharing))
+[Demo video Link]([https://pages.github.com/](https://drive.google.com/file/d/15GW5Ufbc2SNGUnf90CT-Tq6Ss-vt_3Zm/view?usp=sharing)
 
 # Files
 
