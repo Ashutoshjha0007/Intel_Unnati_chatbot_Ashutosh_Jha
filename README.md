@@ -97,4 +97,8 @@ Here are some demo questions from the PDF
 
 ***2. how did he spend the morning ?***
 
+# chatbot interface and sample answer
+
+![Screenshot]([https://myoctocat.com/assets/images/base-octocat.svg](https://drive.google.com/file/d/13F8BDSEMOD1xQ-jL5qcEY6b5u-HT0Wg_/view?usp=sharing))
+
 
