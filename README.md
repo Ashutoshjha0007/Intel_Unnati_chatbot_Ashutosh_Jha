@@ -8,21 +8,21 @@ In this problem statement we must perform simple LLM inference on a CPU and unde
 
 # Files
 
-.env -> Sets up the configuration parameters for the project, including logging level, model specifications, cache 
+`.env` -> Sets up the configuration parameters for the project, including logging level, model specifications, cache 
 directories, server details, and model precision.
 
-requirements.txt -> requirements that need to be downloaded
+`requirements.txt` -> requirements that need to be downloaded
 
-llm_downloader.py ->  Prepares and optimizes the language model by downloading it and converting it into various formats (FP16, 
+`llm_downloader.py` ->  Prepares and optimizes the language model by downloading it and converting it into various formats (FP16, 
 INT8, INT4) suitable for inference using OpenVINO. 
 
-vectorstore_generator.py -> Extracts text from PDF files, splits the text into manageable chunks, generates embeddings for the text 
+`vectorstore_generator.py` -> Extracts text from PDF files, splits the text into manageable chunks, generates embeddings for the text 
 chunks, and stores them in a vector database (Chroma DB).
 
-server.py -> Sets up a FastAPI server that handles user queries, retrieves relevant information from the vector store, and 
+`server.py` -> Sets up a FastAPI server that handles user queries, retrieves relevant information from the vector store, and 
 generates responses using the language model.
 
-client.py -> Provides a Streamlit-based frontend interface for users to interact with the chatbot. It sends user queries to 
+`client.py` -> Provides a Streamlit-based frontend interface for users to interact with the chatbot. It sends user queries to 
 the FastAPI server and displays the responses.
 
 # How To Run
