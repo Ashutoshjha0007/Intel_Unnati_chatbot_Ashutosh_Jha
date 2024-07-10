@@ -99,6 +99,6 @@ Here are some demo questions from the PDF
 
 # chatbot interface and sample answer
 
-![Screenshot]([https://myoctocat.com/assets/images/base-octocat.svg](https://drive.google.com/file/d/13F8BDSEMOD1xQ-jL5qcEY6b5u-HT0Wg_/view?usp=sharing))
+![chatbot](https://drive.google.com/file/d/13F8BDSEMOD1xQ-jL5qcEY6b5u-HT0Wg_/view?usp=sharing)
 
 
