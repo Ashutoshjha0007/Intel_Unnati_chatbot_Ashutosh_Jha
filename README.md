@@ -6,6 +6,25 @@ PROBLEM STATEMENT : Running GenAI on Intel AI Laptops and Simple LLM Inference o
 
 In this problem statement we must perform simple LLM inference on a CPU and understand the process of fine-tuning LLMs for custom applications. We also must become familiar with the basics of Generative AI and its applications. In the end we must produce a Custom Chatbot with Fine-tuned Pre-trained Large Language Model (LLM) using Intel AI Tools.
 
+# Files
+
+.env -> Sets up the configuration parameters for the project, including logging level, model specifications, cache 
+directories, server details, and model precision.
+
+requirements.txt -> requirements that need to be downloaded
+
+llm_downloader.py ->  Prepares and optimizes the language model by downloading it and converting it into various formats (FP16, 
+INT8, INT4) suitable for inference using OpenVINO. 
+
+vectorstore_generator.py -> Extracts text from PDF files, splits the text into manageable chunks, generates embeddings for the text 
+chunks, and stores them in a vector database (Chroma DB).
+
+server.py -> Sets up a FastAPI server that handles user queries, retrieves relevant information from the vector store, and 
+generates responses using the language model.
+
+client.py -> Provides a Streamlit-based frontend interface for users to interact with the chatbot. It sends user queries to 
+the FastAPI server and displays the responses.
+
 # How To Run
 >[!CAUTION]
 >DOWNLOADING THESE DEPENDENCIES MAY TAKE LONG , YOU ONLY NEED TO DOWNLOAD THEM ONCE 
