@@ -3,6 +3,7 @@ PROBLEM STATEMENT : Running GenAI on Intel AI Laptops and Simple LLM Inference o
 
 >[!IMPORTANT]
 >***The final report is uploaded on this Github repo , Please check.***
+>[here is the google drive link for the FINAL REPORT](https://drive.google.com/file/d/1c2MToxIz9RRU_OZrYkMa_WaOKMB-bfuB/view?usp=sharing)
 
 In this problem statement we must perform simple LLM inference on a CPU and understand the process of fine-tuning LLMs for custom applications. We also must become familiar with the basics of Generative AI and its applications. In the end we must produce a Custom Chatbot with Fine-tuned Pre-trained Large Language Model (LLM) using Intel AI Tools.
 
