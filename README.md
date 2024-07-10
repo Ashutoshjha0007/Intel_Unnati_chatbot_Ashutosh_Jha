@@ -99,6 +99,7 @@ Here are some demo questions from the PDF
 
 # chatbot interface and sample answer
 
-[chatbot](https://drive.google.com/file/d/13F8BDSEMOD1xQ-jL5qcEY6b5u-HT0Wg_/view?usp=sharing)
+![Screenshot (336)](https://github.com/Ashutoshjha0007/Intel_Unnati_chatbot_Ashutosh_Jha/assets/96436269/69119ded-17cf-4e60-957c-cb93f95a460d)
+
 
 
